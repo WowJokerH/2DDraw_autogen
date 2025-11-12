@@ -1,0 +1,3 @@
+D:\AppData\CubeCLT\CMake\bin\cmake.exe -E rm -f CMakeFiles\TwoDDraw.dir/objects.a
+D:\AppData\QT\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\TwoDDraw.dir/objects.a @CMakeFiles\TwoDDraw.dir\objects1.rsp
+D:\AppData\QT\Tools\mingw1120_64\bin\c++.exe -Wl,--whole-archive CMakeFiles\TwoDDraw.dir/objects.a -Wl,--no-whole-archive -o TwoDDraw.exe -Wl,--out-implib,libTwoDDraw.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TwoDDraw.dir\linkLibs.rsp

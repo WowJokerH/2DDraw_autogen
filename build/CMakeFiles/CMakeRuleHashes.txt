@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+6a1d3b284aeb3dea7f940e07f6ef6d67 CMakeFiles/TwoDDraw_autogen
+6a1d3b284aeb3dea7f940e07f6ef6d67 CMakeFiles/TwoDDraw_autogen_timestamp_deps
+11253ff4c20c4ba83635a746263f8092 TwoDDraw_autogen/timestamp

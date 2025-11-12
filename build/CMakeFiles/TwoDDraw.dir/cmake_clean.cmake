@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/TwoDDraw.dir/TwoDDraw_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/TwoDDraw.dir/TwoDDraw_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/TwoDDraw.dir/src/core/AreaShape.cpp.obj"
+  "CMakeFiles/TwoDDraw.dir/src/core/AreaShape.cpp.obj.d"
+  "CMakeFiles/TwoDDraw.dir/src/core/LineShape.cpp.obj"
+  "CMakeFiles/TwoDDraw.dir/src/core/LineShape.cpp.obj.d"
+  "CMakeFiles/TwoDDraw.dir/src/core/Shape.cpp.obj"
+  "CMakeFiles/TwoDDraw.dir/src/core/Shape.cpp.obj.d"
+  "CMakeFiles/TwoDDraw.dir/src/core/shapes/Circle.cpp.obj"
+  "CMakeFiles/TwoDDraw.dir/src/core/shapes/Circle.cpp.obj.d"
+  "CMakeFiles/TwoDDraw.dir/src/core/shapes/Ellipse.cpp.obj"
+  "CMakeFiles/TwoDDraw.dir/src/core/shapes/Ellipse.cpp.obj.d"
+  "CMakeFiles/TwoDDraw.dir/src/core/shapes/Polygon.cpp.obj"
+  "CMakeFiles/TwoDDraw.dir/src/core/shapes/Polygon.cpp.obj.d"
+  "CMakeFiles/TwoDDraw.dir/src/core/shapes/Polyline.cpp.obj"
+  "CMakeFiles/TwoDDraw.dir/src/core/shapes/Polyline.cpp.obj.d"
+  "CMakeFiles/TwoDDraw.dir/src/core/shapes/Rectangle.cpp.obj"
+  "CMakeFiles/TwoDDraw.dir/src/core/shapes/Rectangle.cpp.obj.d"
+  "CMakeFiles/TwoDDraw.dir/src/core/shapes/Segment.cpp.obj"
+  "CMakeFiles/TwoDDraw.dir/src/core/shapes/Segment.cpp.obj.d"
+  "CMakeFiles/TwoDDraw.dir/src/core/shapes/Triangle.cpp.obj"
+  "CMakeFiles/TwoDDraw.dir/src/core/shapes/Triangle.cpp.obj.d"
+  "CMakeFiles/TwoDDraw.dir/src/main.cpp.obj"
+  "CMakeFiles/TwoDDraw.dir/src/main.cpp.obj.d"
+  "CMakeFiles/TwoDDraw.dir/src/ui/Canvas.cpp.obj"
+  "CMakeFiles/TwoDDraw.dir/src/ui/Canvas.cpp.obj.d"
+  "CMakeFiles/TwoDDraw.dir/src/ui/MainWindow.cpp.obj"
+  "CMakeFiles/TwoDDraw.dir/src/ui/MainWindow.cpp.obj.d"
+  "CMakeFiles/TwoDDraw_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/TwoDDraw_autogen.dir/ParseCache.txt"
+  "TwoDDraw_autogen"
+  "TwoDDraw.exe"
+  "TwoDDraw.exe.manifest"
+  "TwoDDraw.pdb"
+  "libTwoDDraw.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/TwoDDraw.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

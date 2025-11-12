@@ -1,0 +1,5 @@
+D:/3D/3d/build/CMakeFiles/TwoDDraw.dir
+D:/3D/3d/build/CMakeFiles/edit_cache.dir
+D:/3D/3d/build/CMakeFiles/rebuild_cache.dir
+D:/3D/3d/build/CMakeFiles/TwoDDraw_autogen_timestamp_deps.dir
+D:/3D/3d/build/CMakeFiles/TwoDDraw_autogen.dir

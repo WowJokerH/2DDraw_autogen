@@ -11,7 +11,7 @@ TwoDDraw 是一个使用 C++ 和 Qt6 框架开发的 2D 图形绘制工具,提�
 ```
 TwoDDraw/
 ├── CMakeLists.txt          # CMake 构建配置文件
-├── readme.md               # 项目说明文档
+├── README.md               # 项目说明文档
 ├── src/                    # 源代码目录
 │   ├── main.cpp           # 程序入口
 │   ├── core/              # 核心功能模块
@@ -205,3 +205,4 @@ cmake --build . --clean-first
 ---
 
 **注意**: 请确保在构建前正确安装并配置 Qt 6.7.2 及相关依赖。
+
